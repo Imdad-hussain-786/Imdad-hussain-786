@@ -1,6 +1,4 @@
-Absolutely, here's an extended version:
 
----
 
 # Hi there! 👋 I'm Imdad Hussain Jamali
 
@@ -24,7 +22,7 @@ Welcome to my coding universe! 🚀
 
 🔗 Check out my GitHub repositories to explore the world of my projects and contributions.
 
-[GitHub Profile]
+https://github.com/Imdad-hussain-786/
 
 ### Templates for You!
 
